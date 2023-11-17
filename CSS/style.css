@@ -1,4 +1,9 @@
+@font-face {
+    font-family: Lacquer;
+    src: url(./../Fontes/Lacquer-Regular.ttf);
+  }
 h2{color:gold;
+    font-family: Lacquer;
 }
 img{
     width: auto;
