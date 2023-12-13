@@ -1,0 +1,32 @@
+@font-face {
+    font-family: Lacquer;
+    src: url(./../Fontes/Lacquer-Regular.ttf);
+}
+
+@font-face {
+    font-family: Kurale;
+    src: url(./../Fontes/Kurale-Regular.ttf);
+}
+
+body {background-color: #1287F5;
+}
+main {
+    display: flex;
+}
+
+h2{font-size: 4rem;
+    color: white;
+}
+
+img{
+    display: flex;
+    background-size: cover;
+    width: 605px;
+    height: 1024px;
+    filter: grayscale(1);
+}
+
+.text-og{
+    color: white;
+    font-size: 1rem;
+}
