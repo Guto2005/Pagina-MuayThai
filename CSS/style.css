@@ -19,16 +19,18 @@ li {font-family:Kurale;
     list-style: none;
 }
 
-h3{font-size: 2vh;
+span{font-size: 20vw;
     padding: 10px;
 }
 
-img{
-    display: flex;
-    background-size: cover;
-    width: 605px;
-    height: 1024px;
+picture{
+    width: 50vw;
 }
+
+img{
+    width: 100%;
+} 
+
 .titulos {
     text-align: center;
     display: flex;

@@ -1,0 +1,67 @@
+@font-face {
+    font-family: Lacquer;
+    src: url(./../Fontes/Lacquer-Regular.ttf);
+  }
+
+@font-face {
+      font-family:Kurale;
+      src: url(./../Fontes/Kurale-Regular.ttf);
+  }
+
+body{ background-color:rgb(0, 0, 0);
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+
+}
+
+li {font-family: Kurale;
+    list-style:none;
+}
+
+h2{font-size: 2rem;
+    padding: 10px;
+}
+
+.left-cp {
+width: 30vw;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+}
+
+.mid-tm {
+width: 30vw;
+}
+
+.imagem-tm {
+    width: 100%;
+}
+
+.right-en {
+width: 30vw;
+}
+
+.tcp{background-color:#000000;
+    color: white;
+    font-size: 5vh;
+}
+
+.text-cp{background-color:#000000;
+    color: white;
+    font-size: 2vh;
+}
+
+.ten{background-color:#000000;
+    color:white;
+    font-size: 5vh;
+} 
+
+.text-en{background-color:#000000;
+    color: white;
+    font-size: 2vh;
+}
