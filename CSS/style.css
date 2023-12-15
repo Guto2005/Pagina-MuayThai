@@ -25,6 +25,7 @@ span{font-size: 20vw;
 
 picture{
     width: 50vw;
+    display: flex;
 }
 
 img{
@@ -53,7 +54,6 @@ img{
 }
 
 .imagembp{filter:grayscale(1);
-    display: flex;
 }
 .list-anch{
     margin-top: 200px;
