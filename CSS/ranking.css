@@ -20,6 +20,7 @@ main {
 
 .trf {
     display: flex;
+    font-family: Lacquer;
 }
 
 .text-rf {
@@ -68,6 +69,7 @@ img {
  .trfh{
      display: inline;
      text-align: center;
+     font-family: Lacquer;
   }
 
   h2 {
